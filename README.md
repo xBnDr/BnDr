@@ -32,9 +32,9 @@ Senior Systems Architect, Google-Certified AI Expert, & Data Analytics Specialis
 ### 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xBnDr&show_icons=true&theme=dark&hide_border=true" alt="Bandar's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xBnDr&show_icons=true&theme=dark&hide_border=true" alt="Bandar's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xBnDr&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xBnDr&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
