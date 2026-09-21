@@ -15,7 +15,7 @@
 
 | Domain | Core Technologies & Frameworks |
 | :--- | :--- |
-| **AI & Analytics** | `Google AI` `Python` `Data Analytics` `Data Pipelines` |
+| **AI & Analytics** | `Google AI` `Python` `Data Analytics` |
 | **Cloud & Systems** | `Linux Engineering` `Ubuntu` `Docker` `Cloud VPS` `Nginx` `REST APIs` |
 | **Security & Ops** | `Cybersecurity` `Server Hardening` `Fail2ban` `OSINT` |
 
