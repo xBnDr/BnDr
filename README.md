@@ -29,12 +29,8 @@ Senior Systems Architect, Google-Certified AI Expert, & Data Analytics Specialis
 
 ---
 
-### 📊 GitHub Dashboard
+### 📈 Activity & Focus Areas
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xBnDr&show_icons=true&theme=dark&hide_border=true" alt="Bandar's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xBnDr&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+- ⚡ **Cloud & Virtualization:** High-performance Linux VPS configurations, Nginx reverse proxies, and Docker containerization.
+- 🔐 **Security & OSINT:** Threat intelligence, Fail2ban, and system-level server hardening.
+- 🤖 **AI & Analytics:** Scalable machine learning pipelines and Google AI deployment models.
