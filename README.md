@@ -1,35 +1,28 @@
-# BnDr | Systems Architect & AI Specialist
+<h1 align="center">Hi, I'm BnDr 👋</h1>
+<p align="center">
+  <b>Senior Systems Architect • Google-Certified AI Expert • Data Specialist</b>
+</p>
 
-> **Senior Systems & Infrastructure Architect | Google-Certified AI Expert | Data Analytics**  
-> Specialized in scalable cloud architecture, Linux server hardening, AI pipelines, and self-hosted environments.
+<p align="center">
+  <a href="https://x.com/Yz4"><img src="https://img.shields.io/badge/X-@Yz4-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Riyadh,_KSA-107C41?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification-Google_AI_Expert-4285F4?style=flat-square&logo=google&logoColor=white" />
+</p>
 
 ---
 
-### 🌐 Overview
-| Detail | Value |
+### 💻 Tech Stack
+
+| Domain | Technologies |
 | :--- | :--- |
-| 📍 **Location** | Riyadh, Saudi Arabia |
-| 🎓 **Certifications** | Google Certified AI Expert |
-| ⚡ **Core Strengths** | Cloud Systems, Data Analytics, Cybersecurity & OSINT |
-| 💬 **Connect** | [X (@Yz4)](https://x.com/Yz4) |
+| **AI & Analytics** | `Google AI` `Python` `Data Analytics` `Data Pipelines` |
+| **Cloud & DevOps** | `Linux` `Ubuntu` `Docker` `Cloud VPS` `Nginx` `Bash` |
+| **Security** | `Cybersecurity` `Server Hardening` `Fail2ban` `OSINT` |
 
 ---
 
-### 🛠️ Technical Capabilities
+### 🎯 What I Do
 
-#### 🧠 Artificial Intelligence & Data Analytics
-`Google AI Certified` • `Python` • `Data Analytics` • `ML Pipelines`
-
-#### ☁️ Cloud, Systems & Infrastructure
-`Linux Engineering` • `Docker` • `Cloud VPS` • `REST APIs` • `Nginx`
-
-#### 🔐 Security & Operations
-`Cybersecurity` • `Server Hardening` • `Fail2ban` • `OSINT`
-
----
-
-### 🚀 Key Focus Areas
-
-* **Cloud & Virtualization:** High-performance Linux VPS setups, Nginx reverse proxies, and Docker container orchestration.
-* **Security & Hardening:** System-level server hardening, fail2ban rule configuration, and threat assessment.
-* **AI & Data Solutions:** Building data pipelines and integrating Google AI models into enterprise workflows.
+- 🛡️ **Infrastructure Security:** Architecting resilient Linux servers and automated fail2ban defenses.
+- ⚙️ **Containerization & APIs:** Deploying self-hosted SaaS platforms and RESTful interfaces via Docker.
+- 📊 **AI Integration:** Applying Google AI frameworks to drive data analysis and system automation.
