@@ -11,18 +11,18 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Technical Expertise
 
-| Domain | Technologies |
+| Domain | Core Technologies & Frameworks |
 | :--- | :--- |
 | **AI & Analytics** | `Google AI` `Python` `Data Analytics` `Data Pipelines` |
-| **Cloud & DevOps** | `Linux` `Ubuntu` `Docker` `Cloud VPS` `Nginx` `Bash` |
-| **Security** | `Cybersecurity` `Server Hardening` `Fail2ban` `OSINT` |
+| **Cloud & Systems** | `Linux Engineering` `Ubuntu` `Docker` `Cloud VPS` `Nginx` `REST APIs` |
+| **Security & Ops** | `Cybersecurity` `Server Hardening` `Fail2ban` `OSINT` |
 
 ---
 
-### 🎯 What I Do
+### 🎯 Key Focus Areas
 
-- 🛡️ **Infrastructure Security:** Architecting resilient Linux servers and automated fail2ban defenses.
-- ⚙️ **Containerization & APIs:** Deploying self-hosted SaaS platforms and RESTful interfaces via Docker.
-- 📊 **AI Integration:** Applying Google AI frameworks to drive data analysis and system automation.
+- 🛡️ **Infrastructure Security:** Architecting resilient Linux server environments with automated threat mitigation.
+- ⚙️ **Virtualization & APIs:** Deploying self-hosted platforms and scalable API architectures using Docker containers.
+- 📊 **AI & Enterprise Analytics:** Integrating Google AI tools to streamline data analysis and automated workflows.
